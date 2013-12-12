@@ -21,6 +21,6 @@ brew install apple-gcc42 fltk go jpeg pcre swig autoconf freetype graphicsmagick
 brew tap phinze/cask
 brew tap homebrew/science
 
-brew cask install air-video-server dropbox google-drive subethaedit colloquy google-chrome steam
+brew cask install adium air-video-server dropbox google-drive subethaedit colloquy google-chrome steam sublime-text transmit transmission mumble firefox
 
 exit 0
