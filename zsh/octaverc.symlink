@@ -1,0 +1,3 @@
+## commands executed on startup
+setenv("GNUTERM","X11")
+#graphics_toolkit("fltk")

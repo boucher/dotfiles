@@ -1,0 +1,1 @@
+alias ipython='nocorrect ipython'
